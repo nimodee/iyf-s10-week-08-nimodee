@@ -1,0 +1,35 @@
+body {
+  font-family: Arial;
+  margin: 0;
+  background-color: #f9f9f9;
+}
+
+.app {
+  padding: 20px;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  background-color: #eaeaea;
+}
+
+header nav a {
+  margin-right: 10px;
+  text-decoration: none;
+  color: black;
+}
+
+.post-card {
+  border: 2px solid black;
+  padding: 10px;
+  margin-top: 10px;
+  background: white;
+}
+
+footer {
+  margin-top: 20px;
+  text-align: center;
+  padding: 10px;
+}
